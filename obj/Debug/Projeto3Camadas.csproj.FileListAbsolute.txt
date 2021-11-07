@@ -1,0 +1,9 @@
+C:\Users\WazPC\Desktop\Pedro e familia\POO\Projeto3Camadas\bin\Debug\Projeto3Camadas.exe.config
+C:\Users\WazPC\Desktop\Pedro e familia\POO\Projeto3Camadas\bin\Debug\Projeto3Camadas.exe
+C:\Users\WazPC\Desktop\Pedro e familia\POO\Projeto3Camadas\bin\Debug\Projeto3Camadas.pdb
+C:\Users\WazPC\Desktop\Pedro e familia\POO\Projeto3Camadas\obj\Debug\Projeto3Camadas.csprojAssemblyReference.cache
+C:\Users\WazPC\Desktop\Pedro e familia\POO\Projeto3Camadas\obj\Debug\Projeto3Camadas.Properties.Resources.resources
+C:\Users\WazPC\Desktop\Pedro e familia\POO\Projeto3Camadas\obj\Debug\Projeto3Camadas.csproj.GenerateResource.cache
+C:\Users\WazPC\Desktop\Pedro e familia\POO\Projeto3Camadas\obj\Debug\Projeto3Camadas.csproj.CoreCompileInputs.cache
+C:\Users\WazPC\Desktop\Pedro e familia\POO\Projeto3Camadas\obj\Debug\Projeto3Camadas.exe
+C:\Users\WazPC\Desktop\Pedro e familia\POO\Projeto3Camadas\obj\Debug\Projeto3Camadas.pdb
